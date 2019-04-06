@@ -1,3 +1,3 @@
 # Deep-Learning
 
-Deep Learning Assignments
+Deep Learning short projects
